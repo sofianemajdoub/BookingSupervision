@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">OwnerSquareHangout</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <!-- Strings related to login -->
+
+
+    <string name="password_hint" translatable="false">Password</string>
+    <string name="email_hint" translatable="false">Email</string>
+    <string name="login_error_message">Faire s\'il vous plaît que vous entrez une adresse e-mail et mot de passe!</string>
+    <string name="login_error_title" translatable="false">Error!</string>
+    <string name="login_button_label" translatable="false">Login</string>
+
+
+    <string name="title_activity_update_menu">Mise à jour de menu</string>
+    <string name="title_activity_detail_menu">Détail de menu</string>
+    <string name="title_activity_add_menu">Ajouter un menu</string>
+    <string name="title_activity_stat">Statistique du mois</string>
+    <string name="title_activity_owner_main">Tableau de bord</string>
+    <string name="title_activity_search_by_qr">Validation par QrCode</string>
+
+    <string name="title_activity_search">Liste des réservations</string>
+    <string name="title_activity_repport">Signaler un problème</string>
+
+    <string name="title_activity_detail_booking">Détail réservation</string>
+    <string name="title_activity_comment">Liste des commentaires</string>
+
+    <string name="alert_cnx">Problème de connexion Internet</string>
+    <string name="search_bar">Recherche</string>
+    <string name="alert">Vous n\'avez pas de réservation pour aujourd\'hui !"</string>
+
+    <string name="Place">Etablissement :</string>
+    <string name="Name">Nom :</string>
+    <string name="Date">Date :</string>
+    <string name="Time">Heure :</string>
+    <string name="Seats">Chaises :</string>
+
+    <string name="Validate_Booking">Validation de reservation :</string>
+
+    <string name="quit">Nombre de personne qui quitte</string>
+
+    <string name="exist">La reservation existe</string>
+    <string name="validate">Valider</string>
+
+    <string name="bookings">Reservations</string>
+    <string name="bookings_validate">Reservations validées</string>
+    <string name="Seats_taken">Chaises Prises</string>
+    <string name="Seat">Chaises</string>
+
+    <string name="Phone">Telephone</string>
+    <string name="Open">Ouver</string>
+    <string name="Close">Fermer</string>
+    <string name="nbr_seats">Nombre de chaises</string>
+
+    <string name="Menu_description">Description de Menu</string>
+    <string name="Menu_price">Prix de Menu</string>
+    <string name="Menu_name">Nom de Menu</string>
+</resources>

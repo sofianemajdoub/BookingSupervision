@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.sofiane.envol.ownersquarehangout.Activities.AddMenuActivity"
+    tools:showIn="@layout/activity_add_menu"
+>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_vertical">
+
+        <Spinner
+            android:id="@+id/add_menu_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true">
+
+            <requestFocus />
+        </Spinner>
+
+        <EditText
+            android:id="@+id/add_menu_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:ems="10"
+            android:hint="name"
+            android:inputType="text">
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+
+            android:id="@+id/add_menu_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:gravity="top|left"
+            android:hint="Description"
+            android:inputType="textAutoCorrect"
+            android:maxLines="10"
+            android:minLines="6"
+            android:lines="8">
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/add_menu_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:ems="10"
+            android:hint="Price"
+            android:inputType="number">
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

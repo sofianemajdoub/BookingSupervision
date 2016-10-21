@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OwnerSquareHangout</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to login -->
+
+
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="login_error_message">Please make sure you enter an email address and password!</string>
+    <string name="login_error_title">Error!</string>
+    <string name="login_button_label">Login</string>
+
+
+    <string name="title_activity_update_menu">Mise à jour de menu</string>
+    <string name="title_activity_detail_menu">Détail de menu</string>
+    <string name="title_activity_add_menu">Ajouter un menu</string>
+    <string name="title_activity_stat">Statistique du mois</string>
+    <string name="title_activity_owner_main">Tableau de bord</string>
+    <string name="title_activity_search_by_qr">Validation par QrCode</string>
+
+    <string name="title_activity_search">Liste des réservation</string>
+    <string name="title_activity_repport">Signaler un problème</string>
+
+    <string name="title_activity_detail_booking">Détail réservation</string>
+    <string name="title_activity_comment">Liste des commentaires</string>
+
+    <string name="alert_cnx">Problème de connexion Internet</string>
+    <string name="search_bar">Recherche</string>
+</resources>

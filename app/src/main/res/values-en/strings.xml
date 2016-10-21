@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OwnerSquareHangout</string>
+    <string name="alert_cnx">Problem of Internet connection</string>
+    <string name="search_bar">Search</string>
+    <string name="title_activity_add_menu">Add Menu</string>
+    <string name="title_activity_comment">List of comments</string>
+    <string name="title_activity_detail_booking">Booking detail</string>
+    <string name="title_activity_detail_menu">Menu detail</string>
+    <string name="title_activity_owner_main">Dashboard</string>
+    <string name="title_activity_repport">Report a problem</string>
+    <string name="title_activity_search">List of bookings</string>
+    <string name="title_activity_search_by_qr">QrCode validation</string>
+    <string name="title_activity_stat">Statistics of the month</string>
+    <string name="title_activity_update_menu">Update menu</string>
+    <string name="login_error_message">Please make sure you enter an email address and password!</string>
+    <string name="alert">You haven\'t any booking for today !</string>
+    <string name="Date">Date</string>
+    <string name="Name">Name</string>
+    <string name="Place">Place</string>
+    <string name="Seats">Seats</string>
+    <string name="Time">Time</string>
+    <string name="Validate_Booking">Validation booking</string>
+    <string name="quit">Number of person leaving</string>
+    <string name="Seat">Seats</string>
+    <string name="Seats_taken">Seats Taken</string>
+    <string name="bookings">Bookings</string>
+    <string name="bookings_validate">Bookings validate</string>
+    <string name="login_button_label" translatable="false"></string>
+    <string name="exist">Booking exist</string>
+    <string name="validate">Validate</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="Phone">Phone</string>
+    <string name="nbr_seats">Number of seats</string>
+    <string name="Menu_description">Menu description</string>
+    <string name="Menu_name">Menu name</string>
+    <string name="Menu_price">Menu price</string>
+</resources>
